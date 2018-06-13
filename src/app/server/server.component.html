@@ -1,0 +1,31 @@
+<h3>Name the server...</h3>
+<input
+  type="text"
+  
+>
+<p><button 
+    style="background-color:blue"
+    
+    type="button" class="btn-default"
+    class="NameServer"
+    >
+        Name the Server
+    </button></p>
+
+<p>
+    <button 
+    type="btn" class="btn btn-default"
+    (click)="turnServerOn()"
+    >Turn Server On</button>
+    <button
+    type="button" class="btn btn-default"
+    (click)="turnServerOff()"
+    >Turn Server Off</button>
+    
+  
+</p>
+<p>
+
+    Server Status: {{ serverStatus }}
+</p>
+
