@@ -27,5 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 Should anything go wrong with imports or npm in general, check out this link: https://stackoverflow.com/questions/35692503/ts2307-cannot-find-module-angular2-core-while-importing-angular2-on-typescrip
 
+How to check installed packages: pkgutil --pkgs
+
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # Experiment1
